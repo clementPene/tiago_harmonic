@@ -1,11 +1,11 @@
 repositories:
   br2_gazebo_worlds:
     type: git
-    url: https://github.com/Tiago-Harmonic/br2_gazebo_worlds.git
+    url: https://github.com/clementPene/br2_gazebo_worlds
     version: main
   launch_pal:
     type: git
-    url: https://github.com/Tiago-Harmonic/launch_pal.git
+    url: https://github.com/clementPene/launch_pal
     version: master
   pal_gripper:
     type: git
@@ -53,9 +53,9 @@ repositories:
     version: jazzy
   tiago_robot:
     type: git
-    url: https://github.com/Tiago-Harmonic/tiago_robot.git
-    version: jazzy
+    url: https://github.com/clementPene/tiago_robot
+    version: my_tiago
   tiago_simulation:
     type: git
-    url: https://github.com/Tiago-Harmonic/tiago_simulation.git
+    url: https://github.com/clementPene/tiago_simulation
     version: jazzy
