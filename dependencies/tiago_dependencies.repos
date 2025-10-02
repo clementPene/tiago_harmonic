@@ -5,7 +5,7 @@ repositories:
     version: main
   launch_pal:
     type: git
-    url: https://github.com/clementPene/launch_pal
+    url: https://github.com/Tiago-Harmonic/launch_pal.git
     version: master
   pal_gripper:
     type: git
@@ -53,8 +53,8 @@ repositories:
     version: jazzy
   tiago_robot:
     type: git
-    url: https://github.com/clementPene/tiago_robot
-    version: my_tiago
+    url: https://github.com/Tiago-Harmonic/tiago_robot.git
+    version: jazzy
   tiago_simulation:
     type: git
     url: https://github.com/clementPene/tiago_simulation
